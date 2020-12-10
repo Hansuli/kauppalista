@@ -1,2 +1,2 @@
 # kauppalista
-Kauppalista kaupassakäynnin tueksi 
+Kauppalista kaupassakäyntiin.
